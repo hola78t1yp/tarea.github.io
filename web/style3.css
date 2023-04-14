@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(191, 255, 138);
+}
+h1{
+font-family: cursive;
+font-style: italic;
+text-align: center;
+text-decoration-line: underline;
+
+}
+g{
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+    
+}
+R{
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+    font-style: italic;
+    text-decoration: underline;
+}

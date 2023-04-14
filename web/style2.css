@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(200, 255, 128);
+}
+
+h1{
+ 
+    color:rgb(0, 0, 0);
+    font-size: 30px, medium;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-style: italic;
+    line-height: 30px;
+    letter-spacing: 5px;
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-align: center;
+    text-indent: 30px;
+}
+
+c{
+    text-align: center;
+    color:rgb(0, 0, 0);
+    font-size: 30px, medium;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    font-style: oblique;
+    line-height: 5px;
+    letter-spacing: 1px;
+    text-decoration: double;
+    text-transform: capitalize;
+    text-align: center;
+    text-indent: 30px;
+}
+
+ol{
+    font: oblique bold 120% cursive;
+    font-family: "Segoe UI";
+    font-weight: bold;
+    font-style: oblique;
+}
+
+b{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: silver;
+    font-weight: 900;
+    font-style: initial;
+}
+
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+}
+z{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 900;
+    font-style: initial;
+    font-size: x-large;
+
+}
+
+
+t{
+font-size: 120%;
+font-style: oblique;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-weight: 600;
+}

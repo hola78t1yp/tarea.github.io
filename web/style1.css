@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(187, 236, 109);
+}
+p{
+    text-align: center;
+    color:rgb(0, 0, 0);
+    font-size: 30px, medium;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-style: italic;
+    line-height: 30px;
+    letter-spacing: 5px;
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-align: center;
+    text-indent: 30px;
+    
+}
+
+ul{
+    text-align: left;
+    color:rgb(0, 0, 0);
+    font-size: 30px, medium;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-style: italic;
+    line-height: 12px;
+    letter-spacing: 5px;
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-align: center;
+    text-indent: 30px;
+}
+
+b{
+ 
+    margin-left: 10px;
+  
+}
+c{
+    text-align: 10px;
+    color:rgb(0, 0, 0);
+    font-size: 30px, medium;
+    font-family: 'Times New Roman';
+    font-weight: medium;
+    font-style: oblique;
+    line-height: 12px;
+    letter-spacing: 1px;
+    text-decoration: solid;
+    text-transform: initial;
+    text-align: 10px;
+    text-indent: 10px;
+}
